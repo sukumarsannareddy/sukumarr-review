@@ -1,0 +1,9 @@
+cd
+mkdir
+touch
+nano
+cd ..
+cd ~
+cp
+mv
+kill
